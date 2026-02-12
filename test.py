@@ -1,5 +1,5 @@
 import requests
-
+# this file belongs to some functionality
 url = "https://api.together.xyz/v1/chat/completions"
 headers = {
     "Authorization": "Bearer 4e5ed785b761e8a31e04bcd6529761f554c27030601eb1a163bb1a0dd23487fd",
